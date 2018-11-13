@@ -13,6 +13,12 @@ using namespace std;
 
 int main()
 {
-	cout<<sizeof(int)<<"\n"<<sizeof(short)<<"\n"<<sizeof(long)<<"\n"<<sizeof(char)<<"\n"<<sizeof(float)<<"\n"<<sizeof(double)<<"\n"<<sizeof(bool);
+	cout<<"int size = "<<sizeof(int)<<"\n";
+	cout<<"short size = "<<sizeof(short)<<"\n";
+	cout<<"long size = "<<sizeof(long)<<"\n";
+	cout<<"char size = "<<sizeof(char)<<"\n";
+	cout<<"float size = "<<sizeof(float)<<"\n";
+	cout<<"double size = "<<sizeof(double)<<"\n";
+	cout<<"bool size = "<<sizeof(bool)<<"\n";
 }
 
